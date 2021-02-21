@@ -7,13 +7,13 @@
 - Join Any Clan Forcefully
 - Crash All Clan Members' Game
 - Spam Friend Requests to Anyone
-- Send 999999999 Lobby Likes to Anyone
+- Send Any Amount of Lobby Likes to Anyone
 - Spam Create Clans
 - Customisable
 
 # Usage:
-- Download the .exe from Here
-- Follow the Instructions in the Program
+- Download the Latest .exe File from [here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest)
+- Run and Follow the Instructions in the Program
 
 # Avoiding IP Bans:
 - Use a VPN
