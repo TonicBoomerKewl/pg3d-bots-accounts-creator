@@ -3,12 +3,13 @@
 - Control All of Them at Once!
 
 # Features:
+- Fancy Colored Text,
 - Raid Any Clan,
 - Join Any Clan Forcefully,
 - Spam Friend Requests to Anyone,
 - Send Any Amount of Lobby Likes to Anyone,
 - Spam Create Clans,
-- Customisable Requests.
+- Customisable Multi-Websocket Requests.
 
 # Usage:
 - Download the Latest .exe File from [Here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest),
