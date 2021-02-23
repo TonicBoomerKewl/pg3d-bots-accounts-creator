@@ -24,11 +24,11 @@
 - Switch Your VPN Constantly while Using.
 
 # FAQ:
-- > Is the Program Safe?
+> Is the Program Safe?
 - Yes, it is Safe. It Repeats what Pixel Gun 3D does When Playing for the First Time.
-- > How to Get Free VPN?
+> How to Get Free VPN?
 - You can Get a Free VPN [Here](https://www.vpnbook.com/freevpn), [Here](https://www.vpngate.net/), & [Here](https://openvpn.net/download-open-vpn/).
-- > Can I Get the Source Code?
+> Can I Get the Source Code?
 - No, this is to Avoid the Program from Being Patched Too Fast.
-- > How to Use Advanced Options' Custom Multi-Websocket Requests?
+> How to Use Advanced Options' Custom Multi-Websocket Requests?
 - Ask poggersbutnot#4543 on Discord, too Lazy to Explain Here.
