@@ -9,11 +9,12 @@
 - Spam Friend Requests to Anyone,
 - Send Any Amount of Lobby Likes to Anyone,
 - Spam Create New Clans of Any Name,
-- Customisable Multi-Websocket Requests.
+- Customisable Multi-Websocket Requests,
+- Automatically Parse Customised Requests.
 
 # Usage:
 - Download the Latest .exe File from [Here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest),
-- Run the Program, (Tested & Works on Windows 10), and
+- Run the Program, (Works on Windows 10), and
 - Follow the Instructions in the Program.
 
 # Avoiding IP Bans:
@@ -31,4 +32,4 @@
 > Can I Get the Source Code?
 - No, this is to Avoid the Program from Being Patched Too Fast.
 > How to Use Advanced Options' Custom Multi-Websocket Requests?
-- Ask poggersbutnot#4543 on Discord, too Lazy to Explain Here.
+- Ask poggersbutnot#4543 on Discord, Too Lazy to Explain Here.
