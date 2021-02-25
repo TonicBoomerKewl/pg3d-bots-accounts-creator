@@ -31,5 +31,7 @@
 - You can Get a Free VPN [Here](https://www.vpnbook.com/freevpn), [Here](https://www.vpngate.net/), & [Here](https://openvpn.net/download-open-vpn/).
 > Can I Get the Source Code?
 - No, this is to Avoid the Program from Being Patched Too Fast.
+> How can I Get More Features?
+- Use the Custom Multi-Websocket Requests Advanced Options.
 > How to Use Advanced Options' Custom Multi-Websocket Requests?
 - Ask poggersbutnot#4543 on Discord, Too Lazy to Explain Here.
