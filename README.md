@@ -26,9 +26,9 @@
 
 # FAQ:
 > Is the Program Safe?
-- Yes, it is Safe. It Repeats what Pixel Gun 3D does When Playing for the First Time.
+- Yes, it is Safe. It Repeats what Pixel Gun 3D Would Do When Playing for the First Time.
 > How to Get Free VPN?
-- You can Get a Free VPN [Here](https://www.vpnbook.com/freevpn), [Here](https://www.vpngate.net/), & [Here](https://openvpn.net/download-open-vpn/).
+- You can Get a Free VPN [Here](https://www.vpnbook.com/freevpn), [Here](https://www.vpngate.net/), and [Here](https://openvpn.net/download-open-vpn/).
 > Can I Get the Source Code?
 - No, this is to Avoid the Program from Being Patched Too Fast.
 > How can I Get More Features?
