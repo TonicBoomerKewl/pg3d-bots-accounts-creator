@@ -45,6 +45,8 @@
 - Use the Custom Multi-Websocket Requests in Advanced Options.
 > How to Use Advanced Options' Custom Multi-Websocket Requests?
 - Ask poggersbutnot#4543 on Discord, Too Lazy to Explain Here.
+> Why is Pixel Gun 3D's Server Always Under Maintenance?
+- You have been IP Banned, Use a VPN to Avoid this Problem.
 > Can I have It for Free? Pleazz...
 - No, this is to Avoid the Program from Being Patched Too Fast.
 > Does the Free Version still Work?
