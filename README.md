@@ -52,4 +52,4 @@
 > Does the Free Version still Work?
 - Currently, Not Only does the Free Version Not Work, Running the Free Version will also Cause You to be IP Banned from Pixel Gun 3D's Servers Immediately.
 
-<!--gAAAAABgTaLqIHI-_ZVOWsiwcMq1bgoASt9RbLpSzTgIAvWPLuq0TD4n-K-uvSm2eFfQtnyq1fz0lAzNFTf5df9_vhcDGFY4KBQPMNiyYSiLdPYoLNPAWcK6pfIdEye5ToVQgcE2qJGJp02K9hz8Fr9YRD3LV-LN6nf7pXwAuCJ6A7QMv4FGvwA=-->
+<!--gAAAAABgWbqC1Xj3bc_n9oDeqXn3hs2tTGqLxBsl7y9nPDUpD8Uo_pXLwXI1CkWFEoCsfsaUS-qoGFbmfXI4lCOtko05xBEjnNJAb8aYl-MBAbKsbR3n71uHagX93K9EbJRyfZNLY8DKpVz3LJVqEuP1mnUWoF3jipED2qv4WE8TLgdQ_PJFLSRwCyu53v0q8_wwOJzWjTOvPxiO8aMDd-dntNoTpSftrg==-->
