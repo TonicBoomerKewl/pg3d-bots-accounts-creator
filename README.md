@@ -2,12 +2,12 @@
 - Create Hundreds of Pixel Gun 3D Accounts & Bots, and
 - Log Their Account's Information to a File, and
 - Control All of Them at Once!
-- **This Project is Abandoned, as I Don't Have Enough Time to Maintain It!**
+### **This Project is Abandoned, as I Don't Have Enough Time to Maintain It!**
 - **If This Gets "Patched" in the Future, Too Bad!**
 - **Check Out [Pixel Gun 3D Console Client](https://github.com/TonicBoomerKewl/pixel-gun-3d-console-client) for A Similar Project!**
 
 # Features: **(Abandoned)**
-- **No Further Updates Since 26 March 2021**,
+### **No Further Updates Since 26 March 2021**;
 - Fancy Colored Text in Console,
 - Spam Friend Requests to Anyone,
 - Send Any Amount of Lobby Likes to Anyone,
@@ -19,7 +19,7 @@
 
 # Usage: **(Abandoned)**
 - Get The Abandoned Version of the .exe File from [Here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest),
-- **The Abandoned Version is No Longer Updated, so It May Not Work**,
+### **The Abandoned Version is No Longer Updated, so It May Not Work**;
 - Running a "Patched" Version May Cause You to be (IP) Banned by Pixel Gun 3D Immediately.
 - After Downloading, Execute the .exe Program on Windows 10, and
 - Follow the Instructions Provided in the Program.
@@ -30,7 +30,7 @@
 - Don't Create more than 32 Accounts,
 - Don't Use more than 2 Threads,
 - Switch Your VPN Constantly while Using,
-- A List of Working VPNs are Below in FAQ,
+- A List of Working VPN(s) are Below in FAQ,
 - **If You Still Keep Getting IP Banned, Most Likely, the Abandoned Version is "Patched"**.
 
 # FAQ: **(Abandoned)**
@@ -44,7 +44,7 @@
 - Yes, It is Safe. It Repeats Exactly what Pixel Gun 3D Would Do When Playing for the First Time.
 > Where can I Get a Free VPN?
 - You can Get a Free VPN [Here](https://www.hotspotshield.com/), [Here](https://www.vpnunlimitedapp.com/), [Here](https://www.vpnbook.com/freevpn), [Here](https://www.vpngate.net/), and [Here](https://openvpn.net/download-open-vpn/).
-- Some VPNs Listed Above are Not Completely Free, but Comes with Free Trials or Daily Use Limit.
+- Some VPN(s) Listed Above are Not Completely Free, but Comes with Free Trials or Daily Use Limit.
 > Can I Get the Source Code?
 - No, this is to Avoid the Program from Being Patched Too Fast.
 > How can I Get More Features?
@@ -57,4 +57,4 @@
 - As Of 26 March 2021, it Still Works!
 - [Download It](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest) & Test It For Yourself!
 
-<!--gAAAAABgaZ8DyetcF3aI_WCnnO32KOe2Ge28zCWDmuQxemLiEp5wPfSzRTViHRGIdDI1F-jDPSfvrcZWITpmVUpNQ3ddkIgp27AfTongjpTacW9Ke7Msde46yzc56QWbVI8NrxPezvH3-8Oj4hFkfGEdLKtz_--PsDXstfKqHxn7rR5lcOX_J4hYlxU8iJZ8oWY6e3q2G9CnoKnxbIvhfssxHq3549NRk7skg4C9BcUT6MZB3lIAA6NpGoj664B7GeKxE_r9P6qZBIyYgybXWSuIvEu9gYmvmurPgShcJ8n78Zvz30AP1I8auhOY6MI19gHDCZZWGBtYBUMiT3CNIhWZBsaOqmHovwdOq_5zBauz-oGaG7kB9Q7m-0lGwkT9VfergrF9lWynstSKF2sc76B5TOQ3Zuyh-Gq4QPkAq9kZGnNVSIf6LqNCXgVTzx17j5aHwvNvteBcoeXqpOcx472LYpaQLfm4hurwXF0mo7yZHF9OuQHKgW2UzCrmpiD1AaSrpqLI9XrH5f7bWxuAXTTatNByrPvpV_5X6K9mVnk5Iw-tJHa5SduPl8JkPJ1rgQnxRwVJElf1ituctKnz7-aUTqENF1-akxJKXVLMksgxqA2IpRrudltZ3hDojdgwq4Vg539jdsoy8k84rRVCrox0H7k16onCFAIr7fTjHjqBZmF2W87vkXo8WzHd78bdchQgVJRzht2AYqE5v9nBmHQCJBBHsKNz2Ob4_sob5PqADI8BxGVvdFo4V9HfbwNcXQd0942krWx5SHOPK-GkpmaAAzKwAAhcwPNqwYpEF8FW32eby2dXugzlqaDvBbsIK1NGe3ykPlvMs2GBgYj-WjRq5tMjCEGHFdkHEnbN2HMiry54gWSSqo4YMPBmGTPp8rC-22izVL4Wo79H6BfwD2QlbgJvkTiL9eVyrwg1y4NUIsQqfFQbJqM=-->
+<!--gAAAAABgb9DlVokvfZZtXZIFVbesNrIGKbXK9jtnrd00SLHpnc4Nt1rkyBFa0YY8cSwFMaopBSthA0fRkquCcz8zBxyn-nIYH9gFqlv9I2OxNif_ntBDDTk5rXkkBw58SWShgaNTUaQlDlaixfR3Rs2A1t4HFBQLf4KySIZtELAffNYWxRfE6bJ7BVWB_cpIykhlDL_P6JyU3zyWxYA-fd1Nqa-09ctEmaPjXIxC_EsazT54V_ceGbXIPTRMt3RN130kBaYr0s5gueOq9OvbBwOt3WrGwklvxjPvqnND0b6DKETVSDNm4rjE_Fdgr0r17YtO3qBs2ZFlLzFgMiiX20NBPfidAdHy86GliNCaA83m652oHftb725WszqLILkShKY7iGkB6o5L-w4lV2jIbzIag8lbM0dEfximd0pdyqlHrkHcDi4ZDKUiNU5vpviSGFQnwjhAveEzOZ4O_HvozbOMOQi7ZZ-zQwWUcum9UX4kmsLS4ZoyZ3H0RIbDwsyCVDUaVpHm9cN3rjKde0Y-AUNnqtZD0brTbtEEq8-57ActDFqz7zlr0YwbZkEFRRdLkNJOqEherZiIIqfCJoKSQf4krH-hmP6381onUAzMwVfv-N2IRS5PhJBcJbJ0rPWa71kgVl-a1FgGcR1pd61XzzA1VeRUTxD3UJ31gkhY9vLg5g6fC1JN_tVhmAjH_7MFGn_MQ-ztw3hyIsO0MOP1pFl_QJ_GDmXmJ-AKAfq9KN28cQSdSQkybW5lCqEO81SXr5YrLY6gfqED7RLFzNxMMMETb1llI2sEVxqzWBRzlQqBYrcTHm6oKtdjUNvjMVgvRfo86t1rbvmMGTwtl28UJtfiuzwAVf-_iQnFc8at0vw1B_dfZ4G3bF9wulpm_fsMmy_CUfaWB7Nq07chr2itzIOq7zKNC1l3wZyuVhZ3Ai3z8HI58YSGJDgkY_YiOaKT0cqrZcvNuEoj2i7LHovHJ6Nuy0SbuJsspKnCECyaBjtmjVz5JDL8Ji-bEHmVZMtxn3U_tROXx2qTE18eaAet7im1qwpP2M_oJ6-k4e0b84-4lhX5xN40T9YLJVwsrDn0F7Bc0cNMesdrrBJ1N1gSgGWYQbs7yvR5WQ==-->
