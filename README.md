@@ -1,4 +1,5 @@
-# Pixel Gun 3D Bots Accounts Creator by TonicBoomerKewl#8349! **(Abandoned)**
+# Pixel Gun 3D Bots Accounts Creator! **(Abandoned)**
+### By: TonicBoomerKewl#8349!
 - Create Hundreds of Pixel Gun 3D Accounts & Bots, and
 - Log Their Account's Information to a File, and
 - Control All of Them at Once!
