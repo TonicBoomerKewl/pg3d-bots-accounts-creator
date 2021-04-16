@@ -26,12 +26,12 @@
 - Follow the Instructions Provided in the Program.
 
 # Avoiding IP Bans: **(Abandoned)**
-- Use a VPN when Running the Program,
-- Program will Notify You if You're IP Banned,
-- Don't Create more than 32 Accounts,
-- Don't Use more than 2 Threads,
+- Use a VPN While Running the Program,
+- The Program Till Notify You if You're IP Banned,
+- Never Create more than 32 Accounts,
+- Never Use more than 2 Threads,
 - Switch Your VPN Constantly while Using,
-- A List of Working VPN(s) are Below in FAQ,
+- A List of **Working VPN(s)** are Below in FAQ,
 - **If You Still Keep Getting IP Banned, Most Likely, the Abandoned Version is "Patched"**.
 
 # FAQ: **(Abandoned)**
@@ -40,7 +40,7 @@
 > How Do I Get the Abandoned Version?
 - Get It From [Here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest).
 > Is There a Similar Project That Isn't Abandoned?
-- Yes! Check Out [Pixel Gun 3D Console Client](https://github.com/TonicBoomerKewl/pixel-gun-3d-console-client)!
+- Yes! Check Out **[Pixel Gun 3D Console Client](https://github.com/TonicBoomerKewl/pixel-gun-3d-console-client)**!
 > Is the Program Safe?
 - Yes, It is Safe. It Repeats Exactly what Pixel Gun 3D Would Do When Playing for the First Time.
 > Where can I Get a Free VPN?
