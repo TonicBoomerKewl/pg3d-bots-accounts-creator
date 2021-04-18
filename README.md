@@ -1,5 +1,5 @@
 # Pixel Gun 3D Bots Accounts Creator! **(Abandoned)**
-### By: TonicBoomerKewl#8349!
+### By: **TonicBoomerKewl#8349**!
 - Create Hundreds of Pixel Gun 3D Accounts & Bots, and
 - Log Their Account's Information to a File, and
 - Control All of Them at Once!
@@ -31,7 +31,7 @@
 - Never Create more than 32 Accounts,
 - Never Use more than 2 Threads,
 - Switch Your VPN Constantly while Using,
-- A List of **Working VPN(s)** are Below in FAQ,
+- A List of **Working VPN(s)** are Below in **FAQ**,
 - **If You Still Keep Getting IP Banned, Most Likely, the Abandoned Version is "Patched"**.
 
 # FAQ: **(Abandoned)**
@@ -51,11 +51,11 @@
 > How can I Get More Features?
 - Use the Custom Multi-Websocket Requests in Advanced Options.
 > How to Use Advanced Options' Custom Multi-Websocket Requests?
-- Ask poggersbutnot#4543 on Discord, Too Lazy to Explain Here.
+- Ask **poggersbutnot#4543** on Discord, Too Lazy to Explain Here.
 > Why is Pixel Gun 3D's Server Always Under Maintenance?
 - You have been IP Banned, Use a VPN to Avoid this Problem.
 > Does the Abandoned Version Still Work?
 - As Of 26 March 2021, it Still Works!
 - [Download It](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest) & Test It For Yourself!
 
-<!--gAAAAABgemSyvlzoEiotUkY5HlGyt3GvPzzW2cUTmAzPxx3m9L1VxI-OBi8NRdGcTNYRbM3PVuad6G6NDiangDqAXlldvIaULf9SXBlSso_V9l65p_LycHKmiZNbhchLtkCqVid6e82xBNCDjHPO9IFcEiqn_3PGzyMgOTM3XpvSEVHdTblXfOQ9R10SuBIVwQRenji220CQV3C_ICzOCnWH2M-oNKPgrlky8J39QXCNE0QYj7KcIEvNKi6A6qCcGJmBO-WlHt8i1raBf3TY9F5kEmaYPvbisGyHXvP6mYU5Ajx35sUZoPIF0NwysfC20jQpscvY5zwIcs6pEJr9VvO25ErzkJfqAzmTzyo2IsYouM4v5_qBxNei3iuadOu84pPOQy4sGIxURWofbbf7uBt5w6nmHvKFQyvT_t0-E32xiJozGo-04wzl-f_QFpN3ow1s4xCtFeSTQILeEgycn8gJMx1af8L0Afqzd0--EF2TY7CcTxq7-1RBiqbiIVBVL9i9ZUBpQ8EUcsz0T-HnCAj3HYX8tSBjC2n2TUJPWvYToJPKJ_Y0dpul_MnoOQQDPqtrWzeY8Rx1PMCBmTeP0BpTT3XXKibqAYUFys09dnL-zv3HCzlq_x-T3J7wRyVsT5PVu4MWghzTTFOuFnD8Gou1hsh4hykeZoP3tbMgF_7wDKrdE2SCWAS_gKALI8RGImW6eD-kKD2iEYvVq06dcdrN1dk_HY3nDJP3z28jeMFH4G4uXOjCfGUm065fYAAoaDiSSJHQpcERQuk8Kt65NQVbqPpyEsitjsIwBpe_Z2PzJn73XiPXaOAwuHhl557LQXyV7IN7hRycz8yI8E_RlIYqSJrkn04peg_l5ftGUgrDddpsOGwB01XjjDExb2C-PSnivuxwO3ePvFohOqfszxawOUWTET7jUILaxuhigRVsKdISpP7gvtUS6qe9wxlbaqvqIxk48xM1E6MVdPCooPKIEJwc1kwIqtjXRCKFIuNbJL8GSslc-faQe4rQd_BOog-fNP0UEA7g3B6OSIVxp6rif6ZGgM3Pm4LmdUtmlKAWlzsFSVy6HQ3WYcI-06zMf5l325c3pYjUe_yTl4joFQty1wnFWXhtB-4iHs5zMczOCNYWykqLPHCESkWbC2KiwZrg1GIIKoGmfx_JwmCwqJQSkfwyw7TxwPw9QOZ73plz7HWZaieRhgNg-1_NtJRIMFOroR2LRn8UonLQG2Hn63qBLWZC7ho7cqVgKGNVm-hKtnpr0yCRF3CbhqPBPbyodbRxqadrhA0tah8NJD7Hkwxg5fY1aySY_ZzwTwHLCdXIaOodT5FIQ75P76mNwo5ROR1Yx52m9HV0yx5pVtdIayij28d3CTHGQB-RWoMql-Zve1_v71Z8mMqdet_IIy-H1uQJPkAgHK8Tya4wD9X2RdlD3h0wYogzgKODKFvv5fWUg9bC1hNRC4U=-->
+<!--gAAAAABge7R7E3GRtg9yvpvXLqZzYAgFiBFR1Y2UUzW2FHTLctCrm87cxgR9_Jy79dfV5s5Z-H05ebnIgKGRZ8ZBEEdkKBlPHNHbP7C226wgR6hXsIw70fz2xxnBFVNeygANWiLSPbwZJnRXpz6X6B_EsHsmJVLvBix_4iQqNLq9aauYRvbku1X3mgC_19i5azBGhT9IoxqS5doDk6P2bspIaqWSRTNDyU46pWymmA9QWSyt3cCvs5wizMHRD8jHGlgJT5UDtGXrtcw03T5CPAW33l1QYX5P-eTQBHBwLc_9KDa-xW4Py-TXRnKPuFLsAUCDIAyHnPLmdhk4RqjnI9-9Ctq5JgoU-T1VRkr-Gqt1V0cd69WnjGZtqGvsTj94qGONS-hPYNOpqOm_Jm9_hPAbX6IUginj1e_aPPMn0mnDTyZ5WcLNmvlM3HjpLSTK_GIOfF0apikS6iREpGUzqbLmCJfcgzFgO3vfWcoE1Z_ZNkQp0hu8nZ8krb0-mrHWrwBBYo3Klbkc-lG2QP5VxL2WotsqFyJWcCa6igo5evwV4kzTDIwzyZ-dPjsnvhmnwyxEJz5yuLGATMd0kXr4aPlih589RHP8A4effCaFXaKM6FC0QqOhfmAwiX-3ZV3TaBsdTdxkSR0mAGu62HaHzj6JdYN0CPiHyv3YAhHDm1EXjnBTxVCeiatJ5D2mnNXsynsBFsR_TJoxOTojEYU3utgnM9rKqe17aelWpfXeBdyhQJzqPJvxjH_cToCj5LznY6VPqb4JHsz2-cOlDd57Xdn2ckUrJ6XP26M3CbtVUVzXDkw55NPx8iAirh0EoxnRT3taXx_agV1o0Qw31eLW2ZZYfliQ7Swl1loAFgH4dwsLocGeYQSSDInA8fTUdXghwYGwfG9KILBVE52Yd5IdyxhA9g5oWJ0S9i_womniBL_nNNAZzHNixKFhy2bPOOpxVymEM713bQPc5Gi9xfJAmTKY7MOJiWc6_BRjZw12VqD7mBDiNX8dNjaAbPwMtzRBRtb7pms1-vB468Pqdwa-uIl-lSBb0PdNh6OVFjgq-W6flEJiUT2sAPWCX6ZsMlKutlXdP1FSIHSkG2JdTkqGnNcXx5eNam2Bn7lzQNEhOMch3w0Gp3bkilt29SR9TJJhaunrGS2m5YF4w86GYDpdOoCZBO_vK31Hln5zk_xbbeHW9oG_EMjp1DUNWaAmisWtTaDRZhMlN9x9LXd6SXwHNFEZcb5jDYCH8LT0Ixh_4twRoVlJTfYZGJ3sEAjsWAOyBj8j1fah_eW8_HCy6mX3D9kf-V9FPWfFJr5FsiOwIdjJjyigLb-7bkojXLKvqHg7zYNxaARIR21KEa-xEIYpB6kRIwthO9sdn_KXXPZa6Bdnamt3cZUSbSqR25qg3GU3NPhtrVfxRHal6dfHo7ypUfQj_pUzsUofO049g0xdgua1PdS6KsBASSw=-->
