@@ -1,4 +1,4 @@
-# Pixel Gun 3D Bots Accounts Creator! **(Abandoned)**
+# Pixel Gun 3D Bots Accounts Creator! **(Abandoned)** <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
 ### By: **TonicBoomerKewl#8349**!
 - Create Hundreds of Pixel Gun 3D Accounts & Bots, and
 - Log Their Account's Information to a File, and
