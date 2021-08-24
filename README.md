@@ -1,14 +1,14 @@
 # Pixel Gun 3D Bots Accounts Creator! **(Abandoned)** <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
-### By: **TonicBoomerKewl#8349**!
+### By: **TonicBoomerKewl#8349**! **(Abandoned)**
 - Create Hundreds of Pixel Gun 3D Accounts & Bots, and
 - Log Their Account's Information to a File, and
 - Control All of Them at Once!
-### **This Project is Abandoned, as I Don't Have Enough Time to Maintain It!**
+### **This Project is Abandoned, as I Don't Have Enough Time to Maintain It!** **(Abandoned)**
 - **If This Gets "Patched" in the Future, Too Bad!**
 - **Check Out [Pixel Gun 3D Console Client](https://github.com/TonicBoomerKewl/pixel-gun-3d-console-client) for A Similar Project!**
 
 # Features: **(Abandoned)**
-### **No Further Updates Since 26 March 2021**;
+### **No Further Updates Since 26 March 2021**; **(Abandoned)**
 - Fancy Colored Text in Console,
 - Spam Friend Requests to Anyone,
 - Send Any Amount of Lobby Likes to Anyone,
@@ -20,7 +20,7 @@
 
 # Usage: **(Abandoned)**
 - Get The Abandoned Version of the .exe File from [Here](https://github.com/TonicBoomerKewl/pg3d-bots-accounts-creator/releases/latest),
-### **The Abandoned Version is No Longer Updated, so It May Not Work**;
+### **The Abandoned Version is No Longer Updated, so It May Not Work**; **(Abandoned)**
 - Running a "Patched" Version May Cause You to be (IP) Banned by Pixel Gun 3D Immediately.
 - After Downloading, Execute the .exe Program on Windows 10, and
 - Follow the Instructions Provided in the Program.
